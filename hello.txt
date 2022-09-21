@@ -1,2 +1,6 @@
 Hello , My name is Amit Hari
+<<<<<<< HEAD
 new line from Amit.
+=======
+I am sidharth paswan.
+>>>>>>> c5a0571d88ac45687261736de0bc6cbe40c66925
