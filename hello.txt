@@ -1,8 +1,2 @@
 Hello , My name is Amit Hari
-<<<<<<< HEAD
-I am sidharth paswan.
-
-my self sidhu from kpa.
-=======
 new line from Amit.
->>>>>>> f15f5a1f0b4f61009b6bb1e9df31cbd34a81cffb
